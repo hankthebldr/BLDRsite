@@ -1,0 +1,91 @@
+{
+  "main": {
+    "id": "ff6506ff5a97ebd9",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1b55c472bdd221d",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2b831a1896c2e2d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "d793d5675a99998d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80b3170c3890089d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "950f88f4fcf79255",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5ead224b9a8bb99b",
+    "type": "split",
+    "children": [
+      {
+        "id": "90f96374612be766",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d91cc8b3f3e2fdb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d1b55c472bdd221d",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "hank3/Job Search.md",
+    "hank3/Untitled.md"
+  ]
+}
