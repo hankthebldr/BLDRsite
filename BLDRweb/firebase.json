@@ -2,8 +2,10 @@
   "functions": {
     "source": "functions"
   },
+
   "hosting": {
-    "public": "public",
+    "site": "bldrstock",
+    "public" : "public",
     "ignore": [
       "firebase.json",
       "**/.*",
